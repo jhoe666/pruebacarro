@@ -1,0 +1,14 @@
+#imgSrc{
+    width:  600px;
+    height: 480px;
+}
+
+#centro{
+    width:  600px;
+    height: 480px;
+    margin: auto;
+}
+
+body{
+    margin-top : 40px;
+}
